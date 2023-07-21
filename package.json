@@ -12,9 +12,9 @@
     "new": "valaxy new"
   },
   "dependencies": {
-    "valaxy": "0.14.28",
+    "valaxy": "^0.14.40",
     "valaxy-addon-waline": "^0.1.0",
-    "valaxy-theme-aurora": "^0.1.6",
+    "valaxy-theme-aurora": "^0.1.8",
     "valaxy-theme-yun": "0.14.28"
   },
   "devDependencies": {
